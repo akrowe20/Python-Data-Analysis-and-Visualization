@@ -26,7 +26,7 @@ We’ll also need to install all the packages required for this workshop. The qu
 1.	conda install -y numpy pandas matplotlib jupyter
 2.	conda install -c conda-forge plotnine
 
-One complete, from the CLI, execute ```jupyter lab```
+Once complete, from the CLI, execute ```jupyter lab```
 
 It should be noted that Anaconda and Miniconda are free for research purposes, but should you require a solution without limitations on use, please try the Miniconda equivalent [Conda Forge](https://conda-forge.org/). The above conda commands for installing the required packages are the same.
 
